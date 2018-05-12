@@ -1,0 +1,9 @@
+Steps to include any library into Arduino IDE
+--------------------------------------------------------------------------------------------------------------------------------
+Step1: Open Arduino IDE.
+Step2: Click on Sketech.
+Step3: In that select Include Library option.
+Step4: A list will appear in that click on "Add.ZIP Library"
+Step5: Now Select the path in your system where the library is present.And click on open
+
+NOTE:LIBRARY SHOULD BE IN ".ZIP" FORMAT
