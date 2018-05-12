@@ -46,7 +46,7 @@ Whether a computer is a client, a server, or both, is determined by the nature o
 		
 ![Alt Text](https://www.pubnub.com/wp-content/uploads/2014/09/WebSockets-Diagram.png)
 
-* **Pub-Sub Model of Communication*
+* **Pub-Sub Model of Communication**
 	
 	* The publish/subscribe pattern (pub/sub) is an alternative to the traditional client-server model, where a client communicates directly with an endpoint. However, Pub/Sub decouples a client, who is sending a particular message (called publisher) from another client (or more clients), who is receiving the message (called subscriber). This means that the publisher and subscriber don’t know about the existence of one another. There is a third component, called broker, which is known by both the publisher and subscriber, which filters all incoming messages and distributes them accordingly.
 	
